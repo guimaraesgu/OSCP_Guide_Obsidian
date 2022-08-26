@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "2f6b55af38295bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "75c46a4592ff2c61",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cheatsheets/Linux/Privilege Escalation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5618d3c8be47ca12",
+    "type": "split",
+    "children": [
+      {
+        "id": "481c5db32b224f83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2089603aaca2dc15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8fc89c5dcd54d09d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f41b3727624fb209",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d5dba0ff4bae2e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27ee846554fb3460",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cheatsheets/Linux/Privilege Escalation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "75c46a4592ff2c61",
+  "lastOpenFiles": [
+    "Cheatsheets/Linux/File Transfer.md",
+    "Cheatsheets/Linux/Basic Enum.md",
+    "Cheatsheets/Windows/File Transfer.md",
+    "Cheatsheets/Windows/Basic Enum.md",
+    "Cheatsheets/Windows/Executar Programa.md",
+    "Cheatsheets/Windows/Privilege Escalation.md",
+    "OSCP/01 - Planejamento/Planejamento Fase 1.md",
+    "Cheatsheets/Windows/ADS.md",
+    "Cheatsheets/Linux/Privilege Escalation.md",
+    "HTB/XX - [LABNAME]-[IP]/10 - Post-Exploit/02 - Priv Esc/Linux/Manual Priv Esc Enum.md"
+  ]
+}
